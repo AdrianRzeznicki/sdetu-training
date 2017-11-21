@@ -8,6 +8,7 @@ public class StudentApp {
 		stu1.enroll("Mathematic", 123);
 		stu1.payTution(12);
 		System.out.println( stu1.toString());
+		System.out.println( stu1.toString()+ "git test");
 	}
 
 }
